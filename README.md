@@ -82,3 +82,8 @@ Two dummy CSV files are used:
 | `Processed_customers/` | Cleaned and enriched customer data (Parquet) |
 | `Final_customer_orders/` | Joined customers and orders (Parquet) |
 | `Final_rank_orders/` | Ranked customers by total spend (Parquet) |
+
+## Sample Outputs
+
+### Cleaned Customer Data
+![Cleaned Data](screenshots/Transformed Data.png)
