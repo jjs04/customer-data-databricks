@@ -86,4 +86,16 @@ Two dummy CSV files are used:
 ## Sample Outputs
 
 ### Cleaned Customer Data
-![Cleaned Data](screenshots/Transformed Data.png)
+![Cleaned Data](screenshots/Transformed_Data.png)
+
+### Window Functions
+![Window Functions](screenshots/window_functions_output.png)
+
+### Pivot Table — Active vs Inactive Customers per State
+![Pivot Table](screenshots/Pivot_Table.png)
+
+### Monthly Revenue
+![Monthly Revenue](screenshots/Revenue_Per_Month.png)
+
+### Ranked Customers by Total Spend
+![Ranked Customers](screenshots/Ranked_customers_by_total_spend.png)
