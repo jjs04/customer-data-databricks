@@ -57,7 +57,7 @@ Two dummy CSV files are used:
 
 ## Tech Stack
 
-- **Platform:** Databricks
+- **Platform:** Databricks (Free Edition)
 - **Language:** Python (PySpark)
 - **Storage:** Databricks Volumes
 - **Output Format:** Parquet
@@ -71,7 +71,7 @@ Two dummy CSV files are used:
    /Volumes/workspace/default/mini_project_1/
    ```
 2. Import the notebook into your Databricks workspace
-3. Attach to a cluster with Spark and run all cells top to bottom
+3. Attach to a cluster (or use default Serverless compute if using free edition) with Spark and run all cells top to bottom
 
 ---
 
